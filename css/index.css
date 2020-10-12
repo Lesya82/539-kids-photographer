@@ -1,0 +1,13 @@
+.text-white{
+    color:white;
+}
+.background-orange{
+    background:orange;
+}
+.text-pink{
+    color:rgb(218, 57, 218);
+}
+.text-menu-end{
+    text-align: end;
+    padding: 10px;
+}
